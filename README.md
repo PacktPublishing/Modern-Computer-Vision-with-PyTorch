@@ -1,2 +1,2 @@
-# Hands-On-Computer-Vision-with-Pytorch
-Hands-On Computer Vision with Pytorch by Packt Publishing 
+# Hands-On-Computer-Vision-with-PyTorch
+Hands-On Computer Vision with PyTorch by Packt Publishing 

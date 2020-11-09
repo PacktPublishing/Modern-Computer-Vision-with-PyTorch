@@ -1,9 +1,9 @@
 # Moving a model to production
 
-There are two sections in this chapter
+There are two sections in this chapter which are explained as video walkthroughs below
 
-### Creating a FastAPI application and creating a docker container out of it
+### 1. Creating a FastAPI Application and Creating a Docker Container out of it
 [https://www.youtube.com/watch?v=4ylSSIwinSI](https://www.youtube.com/watch?v=4ylSSIwinSI)
 
-### Moving and deploying the container in production
+### 2. Moving and Deploying the Container in Production
 [https://www.youtube.com/watch?v=xpaod-htkFo](https://www.youtube.com/watch?v=xpaod-htkFo)

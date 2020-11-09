@@ -1,0 +1,1 @@
+Refer to the repo [https://github.com/sizhky/Complex-YOLOv4-Pytorch/](https://github.com/sizhky/Complex-YOLOv4-Pytorch/) for details on how to download, inspect, train and validate 3D object detection

@@ -1,5 +1,5 @@
-# Hands-On-Computer-Vision-with-PyTorch
-Hands-On Computer Vision with PyTorch by Packt Publishing 
+# Modern-Computer-Vision-with-PyTorch
+Modern Computer Vision with PyTorch by Packt Publishing 
 
 All the notebooks can be run directly on [colab](https://colab.google.com) using the [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch/) button that can be found at the start of every notebook.
 

@@ -9,8 +9,6 @@ This is the code repository for [Modern Computer Vision with PyTorch](https://ww
 ## What is this book about?
 Deep learning is the driving force behind many recent advances in various computer vision (CV) applications. This book takes a hands-on approach to help you to solve over 50 CV problems using PyTorch1.x on real-world datasets.
 
-You’ll start by building a neural network (NN) from scratch using both NumPy and PyTorch and discover best practices for tweaking an NN's hyperparameters. You’ll then perform image classification using convolutional neural networks (CNNs) and transfer learning and understand how they work. As you progress, you’ll implement multiple use cases of 2D and 3D multi-object detection, segmentation, human-pose-estimation by learning about the R-CNN family, SSD, YOLO, U-Net architectures, and the Detectron2 platform. The book will also guide you in performing facial expression swapping, generating new faces, and manipulating facial expressions as you explore autoencoders and modern generative adversarial networks (GANs). You’ll learn how to combine computer vision with NLP techniques, such as LSTM and transformer, and RL techniques, such as Deep Q-learning, to implement OCR, image captioning, object detection, and a self-driving car agent. Finally, you'll move your NN model to production on the AWS Cloud.
-
 By the end of this book, you’ll be able to leverage modern NN architectures to solve over 50 real-world computer vision problems confidently.
 
 This book covers the following exciting features: 
@@ -26,6 +24,9 @@ This book covers the following exciting features:
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839213477) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
+
+## Errata
+- [Chapter01](Chapter01/readme.md)
 
 ## Instructions and Navigations
 All of the code is organized into folders.

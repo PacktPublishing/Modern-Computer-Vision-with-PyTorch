@@ -7,6 +7,5 @@ OLD implies old erroneous text that is in the print
 NEW implies the corresponding correction
 
 <img src="https://i.imgur.com/LNI7Z82.png" width="800px"></img>
-<img src="https://i.imgur.com/jla9c1t.png" width="800px"></img>
 <img src="https://i.imgur.com/Ptf8B08.png" width="800px"></img>
 <img src="https://i.imgur.com/FNJxzVl.png" width="800px"></img>

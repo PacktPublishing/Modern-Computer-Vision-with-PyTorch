@@ -1,6 +1,6 @@
 # Errata
 
-Due to notation mismatch some of the formulae were printed erroneously in the book  
+Due to notation mismatches, some of the formulae were printed erroneously in the book  
 Here are the page wise correction.
 
 OLD implies old erroneous text that is in the print

@@ -1,3 +1,6 @@
+# Errata
+
+In the chapter `Class_activation_maps`  
 Originally the functions were 
 
 ```python

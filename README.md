@@ -26,8 +26,8 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 ## Errata
 - [Chapter01](Chapter01/readme.md)
-- [Chapter03](Chapter03/readme.md)
-- [Chapter06](Chapter06/readme.md)
+- [Chapter03](Chapter03/Readme.md)
+- [Chapter06](Chapter06/Readme.md)
 
 ## Instructions and Navigations
 All of the code is organized into folders.

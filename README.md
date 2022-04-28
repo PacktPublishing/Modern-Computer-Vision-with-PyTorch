@@ -71,7 +71,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Hands-On Natural Language Processing with PyTorch 1.x [[Packt]](https://www.packtpub.com/product/hands-on-natural-language-processing-with-pytorch-1-x/9781789802740) [[Amazon]](https://www.amazon.com/dp/1789802741)
 
-* PyTorch Computer Vision Cookbook [[Packt]](https://www.packtpub.com/product/pytorch-computer-vision-cookbook/9781838644833) [[Amazon]](https://www.amazon.com/dp/B0862CX2ZL)
+* PyTorch Computer Vision Cookbook [[Packt]](https://www.packtpub.com/data/pytorch-computer-vision-cookbook) [[Amazon]](https://www.amazon.com/gp/product/1838644830)
 
 ## Get to Know the Author
 **V Kishore Ayyadevara** leads a team focused on using AI to solve problems in the healthcare space. He has more than 10 years' experience in the field of data science with prominent technology companies. In his current role, he is responsible for developing a variety of cutting-edge analytical solutions that have an impact at scale while building strong technical teams. Kishore has filed 8 patents at the intersection of machine learning, healthcare, and operations. Prior to this book, he authored four books in the fields of machine learning and deep learning. Kishore got his MBA from IIM Calcutta and his engineering degree from Osmania University.

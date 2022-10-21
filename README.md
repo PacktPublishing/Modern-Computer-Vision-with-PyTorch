@@ -79,3 +79,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Yeshwanth Reddy** is a senior data scientist with a strong focus on the research and implementation of cutting-edge technologies to solve problems in the health and computer vision domains. He has filed four patents in the field of OCR. He also has 2 years of teaching experience, where he delivered sessions to thousands of students in the fields of statistics, machine learning, AI, and natural language processing. He has completed his MTech and BTech at IIT Madras.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839213472">https://packt.link/free-ebook/9781839213472 </a> </p>

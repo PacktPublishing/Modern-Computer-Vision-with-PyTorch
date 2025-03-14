@@ -20,7 +20,7 @@ python-dateutil==2.8.1
 python-multipart==0.0.5
 pytz==2020.1
 six==1.15.0
-starlette==0.13.6
+starlette==0.25.0
 torch-snippets==0.233
 tqdm==4.50.2
 typing-extensions==3.7.4.3

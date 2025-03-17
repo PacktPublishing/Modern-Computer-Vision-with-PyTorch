@@ -32,6 +32,8 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839
 - [Chapter03](Chapter03/Readme.md)
 - [Chapter06](Chapter06/Readme.md)
 
+Please use `%pip install torch-snippets==0.539` in any of the codes if there's an issue with torch-snippets library as it was the library version during the release of the notebook.
+
 ## Instructions and Navigations
 All of the code is organized into folders.
 

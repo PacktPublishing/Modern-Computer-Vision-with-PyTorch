@@ -10,7 +10,7 @@ kiwisolver==1.2.0
 loguru==0.5.3
 MarkupSafe==1.1.1
 matplotlib==3.3.2
-numpy==1.19.2
+numpy==1.22.0
 opencv-python-headless==4.4.0.44
 pandas==1.1.3
 Pillow==8.0.1
